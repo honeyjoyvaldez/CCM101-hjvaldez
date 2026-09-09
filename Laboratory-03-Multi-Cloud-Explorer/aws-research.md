@@ -27,4 +27,4 @@ AWS provides a web-based Management Console, robust Command Line Interface (CLI)
 * Big data processing and enterprise data lakes.
 * Secure multi-tier enterprise architectures.
 
-![AWS Homepage](screenshots/aws-homepage.png)
+![AWS Homepage](Screenshots/aws-homepage.png)
