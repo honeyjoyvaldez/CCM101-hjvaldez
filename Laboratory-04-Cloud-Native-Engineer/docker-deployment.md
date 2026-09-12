@@ -4,15 +4,11 @@
 To verify that Docker is properly installed and running in the KillerCoda environment, the following command was executed:
 - `docker --version` or `systemctl status docker`
 
-*(Screenshot saved as `screenshots/docker-version.png`)*
-
 ## Checkpoint 4: Deploying Nginx Web Server
 To deploy the live web server, the official Nginx image was pulled and executed in detached mode with port mapping:
 1. Pull the image: `docker pull nginx`
 2. Run container: `docker run -d -p 8080:80 --name my-web-server nginx`
 3. Verify locally: `curl http://localhost:8080`
-
-*(Screenshot saved as `screenshots/nginx-running.png`)*
 
 ## Checkpoint 5: Container Lifecycle Commands
 
@@ -32,4 +28,3 @@ To deploy the live web server, the official Nginx image was pulled and executed 
    - Command: `docker rm my-web-server`
    - *Explanation:* Deletes the stopped container instance from disk, freeing up system resources.
 
-*(Screenshot saved as `screenshots/container-lifecycle.png`)*
