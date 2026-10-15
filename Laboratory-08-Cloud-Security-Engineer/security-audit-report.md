@@ -9,18 +9,3 @@ The attack surface represents the total sum of all possible entry points, vulner
 ## Default Deny Policy
 A Default Deny policy is a foundational security posture that blocks all incoming network traffic by default unless an explicit rule permits it[. It is significantly safer than trying to blacklist specific hackers individually because new threats emerge constantly, making it impossible to predict or block every malicious IP address manually[.
 ```
-
----
-
-## 2. `firewall-configuration.md`
-*(For Checkpoint 6: Technical Documentation)*
-
-```markdown
-# Firewall Configuration and Technical Documentation
-
-## Commands Executed
-To secure the server using the Uncomplicated Firewall (UFW), the following commands were executed sequentially:
-
-1. **Allow SSH Access:**
-   ```bash
-   sudo ufw allow ssh
