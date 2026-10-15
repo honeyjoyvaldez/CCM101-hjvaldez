@@ -1,10 +1,3 @@
----
-
-### 2. Contents for `README.md` (inside `Laboratory-08-Cloud-Security-Engineer/`)
-
-Copy and paste this exact content into your folder's `README.md` file:
-
-```markdown
 # Laboratory 08: The Cloud Security Engineer
 
 ## Mission Overview
