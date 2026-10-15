@@ -1,7 +1,3 @@
-### 2. `README.md`
-Create and save a file named **`README.md`** inside your `Laboratory-09-Cloud-Automation-Engineer/` folder with this content:
-
-```markdown
 # Laboratory 09: The Cloud Automation Engineer
 
 ## Mission Overview
