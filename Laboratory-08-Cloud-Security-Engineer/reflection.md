@@ -1,5 +1,3 @@
----
-
 ## 3. `reflection.md`
 *(For Checkpoint 7: Mission Reflection)*
 
